@@ -29,7 +29,7 @@ function load(){
 }
 
 function backBtnClick(){
-    window.location.href = './index.html'
+    window.location.href = './home.html'
 }
 document.getElementById("backBtn").onclick = backBtnClick; 
 

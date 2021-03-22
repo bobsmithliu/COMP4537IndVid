@@ -56,3 +56,7 @@ function loadOne(){
         }
     }
 }
+
+function backBtnClick(){
+    window.location.href = './home.html'
+}
